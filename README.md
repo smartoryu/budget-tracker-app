@@ -1,6 +1,8 @@
-# budget_tracker
+# Budget Tracker
 
-A new Flutter project.
+Budget Tracker App with Notion.
+
+[Download latest APK here](https://bit.ly/com-myplayground-budget_tracker)
 
 ## Getting Started
 
